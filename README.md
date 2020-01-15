@@ -2,6 +2,7 @@
 
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-ySteinhart1/docs/
+
 Repo: https://github.com/ucsb-cs56-w20/lab02-ySteinhart1/
 
 # About this repo
